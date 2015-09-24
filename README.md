@@ -24,3 +24,4 @@ bash run.sh arg1
 //table and its metadata must be present in the same folder as the bash file
 Tables can be copied from the DATAset folder along with metadata.txt
 // Data can be generated using the following Generator.
+In this way the output can be obtained
