@@ -1,5 +1,0 @@
-col0,5
-col1,7
-col2,5
-col3,6
-col4,8
