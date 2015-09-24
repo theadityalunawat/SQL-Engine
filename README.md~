@@ -22,5 +22,4 @@ Run the bash file run.sh as:
 bash run.sh arg1
 //arg1 will be the command .
 //table and its metadata must be present in the same folder as the bash file
-Tables can be copied from the DATAset folder along with metadata.txt
 // Data can be generated using the following Generator.
